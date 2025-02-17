@@ -8,7 +8,7 @@ Libraries:
 -openCV
 -numpy
 -pillow
--pyQt5ter(or Tkinter still finalizing waiting on UI designer signal)
+-pyQt5ter
 
 
 ```bash 
